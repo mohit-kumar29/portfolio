@@ -117,8 +117,8 @@ export const projects = [
     image: projectImg1,
     tech: [" React", "Node", "Socket.io", "MongoDB"],
     icons: [FaReact, FaNodeJs, FaDatabase , FaStripe],
-    demo: "#",
-    code: "#",
+    liveLink: "https://chat-app-beta-rouge-82.vercel.app/",
+    githubLink: "https://github.com/mohit-kumar29/chat-app",
   },
   {
     title: "Portfolio Website",
@@ -126,8 +126,7 @@ export const projects = [
     image: projectImg4,
     tech: ["Next.js", "Tailwind CSS", "Framer Motion", "Markdown"],
     icons: [FaReact, FaCloud],
-    liveLink: "https://chat-app-beta-rouge-82.vercel.app/",
-    githubLink: "https://github.com/mohit-kumar29/chat-app",
+    
   },
   // {
   //   title: "AI Image Generator",
