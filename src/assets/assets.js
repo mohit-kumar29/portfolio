@@ -126,8 +126,8 @@ export const projects = [
     image: projectImg4,
     tech: ["Next.js", "Tailwind CSS", "Framer Motion", "Markdown"],
     icons: [FaReact, FaCloud],
-    demo: "#",
-    code: "#",
+    liveLink: "https://chat-app-beta-rouge-82.vercel.app/",
+    githubLink: "https://github.com/mohit-kumar29/chat-app",
   },
   // {
   //   title: "AI Image Generator",
