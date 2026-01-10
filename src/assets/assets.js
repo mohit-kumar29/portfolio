@@ -90,15 +90,6 @@ export const projects = [
     code: "#",
   },
   
-  // {
-  //   title: "Fitness Tracker",
-  //   description: "A mobile app for tracking workouts, nutrition, and health metrics.",
-  //   image: projectImg3,
-  //   tech: ["React Native", "GraphQL", "MySQL", "Chart.js"],
-  //   icons: [FaReact, FaDatabase],
-  //   demo: "#",
-  //   code: "#",
-  // },
   
   {
     title: "Real Estate Website",
@@ -117,27 +108,18 @@ export const projects = [
     image: projectImg1,
     tech: [" React", "Node", "Socket.io", "MongoDB"],
     icons: [FaReact, FaNodeJs, FaDatabase , FaStripe],
-    demo: "#",
-    code: "#",
+    liveLink: "https://chat-app-beta-rouge-82.vercel.app/",
+    githubLink: "https://github.com/mohit-kumar29/chat-app",
   },
   {
     title: "Portfolio Website",
-    description: "A personal portfolio to showcase projects, skills, and blogs with dark/light mode support.",
+    description: "A personal portfolio website displaying my projects, skills, and professional experience.",
     image: projectImg4,
     tech: ["Next.js", "Tailwind CSS", "Framer Motion", "Markdown"],
     icons: [FaReact, FaCloud],
     demo: "#",
     code: "#",
   },
-  // {
-  //   title: "AI Image Generator",
-  //   description: "Generate images using AI prompts powered by OpenAI's DALL·E model and Cloudinary.",
-  //   image: projectImg6,
-  //   tech: ["React", "OpenAI API", "Cloudinary", "Tailwind CSS"],
-  //   icons: [FaRobot, FaReact, FaCloud],
-  //   demo: "#",
-  //   code: "#",
-  // }
 ];
 
 

@@ -16,7 +16,7 @@ const Me = () => {
                 {/* left side  */}
                 <div className='md:w-1/2 mb-10 md:mb-0'>
                     <h1 className='text-4xx md:text-6xl font-bold mb-4'>
-                        Hello, I'm <span className='text-purple'>Mohit Kumar</span> <br />
+                        Hey, I'm <span className='text-purple'>Mohit Kumar</span> <br />
                     </h1>
                     <h2 className='text-2xl md:text-4xl font-semibold mb-6 typewriter'>a Technologist</h2>
                     <p className='text-lg text-grey-300 mb-8'>Bringing ideas to life through elegant design and robust engineering.</p>
