@@ -127,6 +127,7 @@ export const experienceData = [
     courseName: "Bachelor of Technology (CSE)",
     name: "Dr. A.P.J. Abdul Kalam Technical University",
     duration: "2021-2025",
+    link: "https://hiet.org/",
     // description:
     //   "Leading frontend development for enterprise clients, implementing modern frameworks, and mentoring junior developers.",
     color: "purple"
@@ -135,6 +136,7 @@ export const experienceData = [
     courseName: "Intermediate (CBSE)",
     name: "Dehradun Public School",
     duration: "2019 - 2020",
+    link: "https://www.ddps.in/",
     // description:
     //   "Developed and maintained web applications for various clients, focusing on responsive design and performance optimization.",
     color: "pink"
@@ -143,6 +145,7 @@ export const experienceData = [
     courseName: "High School (CBSE)",
     name: "Dehradun Public School",
     duration: "2017 - 2018",
+    link: "https://www.ddps.in/",
     // description:
     //   "Started my career building basic websites and gradually took on more complex projects as I expanded my skill set.",
     color: "blue"
