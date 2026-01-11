@@ -41,10 +41,10 @@ const Education = () => {
                                         
                                             {data.courseName}
                                     </h3>
-                                    <span className =' text-white px-3 py-1 bg-purple/20 text-purple rounded-full text-xs md:text-sm'>{data.duration}</span>
+                                    <span className =' text-white px-3 py-1 bg-purple/20 rounded-full text-xs md:text-sm'>{data.duration}</span>
 
                                 </div>
-                                <p className='text-gray-400 mb-2'>{data.name}</p>
+                                <p className='text-gray-300 mb-2'>{data.name}</p>
                                 { <p className='text-gray-300'>{data.description}</p> }
 
                             </div>
