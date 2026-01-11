@@ -47,6 +47,15 @@ const Education = () => {
                                 <p className='text-gray-300 mb-2'>{data.name}</p>
                                 { <p className='text-gray-300'>{data.description}</p> }
 
+                                <a
+                                href={data.link}
+                                target="_blank"
+                                rel="noopener noreferrer"
+                                className="px-5 py-1  bg-purple text-white rounded-lg text-sm hover:bg-purple-700 transition duration-300"
+                                >
+                                    Visit
+                                </a>
+
                             </div>
 
                         </div>
