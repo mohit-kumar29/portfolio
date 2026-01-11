@@ -47,14 +47,12 @@ const Education = () => {
                                 <p className='text-gray-300 mb-2'>{data.name}</p>
                                 { <p className='text-gray-300'>{data.description}</p> }
 
-                                <a
-                                href={data.link}
-                                target="_blank"
-                                rel="noopener noreferrer"
-                                className="px-5 py-1  bg-purple text-white rounded-lg text-sm hover:bg-purple-700 transition duration-300"
+                                <button
+                                onClick={() => window.open(data.link, "_blank")}
+                                className="px-3 py-1 text-xs bg-purple text-white rounded-md hover:bg-purple-600 transition"
                                 >
                                     Visit
-                                </a>
+                                </button>
 
                             </div>
 
