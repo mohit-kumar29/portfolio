@@ -15,7 +15,7 @@ const Me = () => {
             <div className='container mx-auto px-6 flex flex-col md:flex-row items-center justify-between'>
                 {/* left side  */}
                 <div className='md:w-1/2 mb-10 md:mb-0'>
-                    <h1 className='text-4xx md:text-6xl font-bold mb-4'>
+                    <h1 className='text-3xl sm:text-3xl md:text-6xl font-bold mb-6 leading-tight'>
                         Hey, I'm <span className='text-purple'>Mohit Kumar</span> <br />
                     </h1>
                     <h2 className='text-2xl md:text-4xl font-semibold mb-6 typewriter'>a Technologist</h2>
