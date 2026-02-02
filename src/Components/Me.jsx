@@ -18,7 +18,7 @@ const Me = () => {
                     <h1 className='text-3xl sm:text-3xl md:text-6xl font-bold mb-6 leading-tight'>
                         Hello, I'm <span className='text-purple'>Mohit Kumar</span> <br />
                     </h1>
-                    <h2 className='text-2xl md:text-4xl font-semibold mb-6 typewriter'>a Technologist</h2>
+                    <h2 className='text-2xl md:text-4xl font-semibold mb-6 typewriter'>a Solutionist</h2>
                     <p className='text-lg text-grey-300 mb-8'>Bringing ideas to life through elegant design and robust engineering.</p>
                     <div className='flex space-x-4 py-3'>
                         <a href="#projects" className='px-6 py-3 bg-purple rounded-lg font-medium hover:bg-purple-700 transition duration-300'> View Work</a>
